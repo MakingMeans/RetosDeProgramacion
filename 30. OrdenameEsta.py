@@ -8,3 +8,15 @@ EASY
  *   automáticamente.
 """
 
+def ordenar_lista(lista, orden):
+    n = len(lista)
+    
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if (orden == "Asc" and lista[j] > lista[j+1]) or (orden == "Desc" and lista[j] < lista[j+1]):
+                lista[j], lista[j+1] = lista[j+1], lista[j]
+    
+    return lista
+
+lista = [4, 9, 6, 2, 8]
+print(ordenar_lista(lista, "Asc"))
