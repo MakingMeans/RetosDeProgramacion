@@ -17,22 +17,4 @@ Número del ejercicio - Nombre del ejercicio - Lenguaje y extensión
 Cada reto incluye:
 ✅ Enunciado  
 ✅ Implementaciones en distintos lenguajes  
-✅ Explicación de la solución  
-
-## 🛠 Tecnologías y Lenguajes
-- 🐍 Python
-- ⚡ JavaScript
-- 💻 C++
-- 🏗️ Otros (según el reto)
-
-## 🤝 Contribuciones
-Si tienes soluciones alternativas o mejoras, ¡haz un **fork** y envía un **pull request**! 🚀  
-
-## 📬 Contacto
-Si quieres discutir soluciones o compartir ideas, puedes encontrarme en GitHub.
-
-💡 ¡Acepta el desafío y mejora tus habilidades de programación!
-
----
-
-¿Qué te parece? ¿Quieres agregar algún detalle extra? 😊
+✅ Explicación de la solución 
